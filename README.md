@@ -97,6 +97,26 @@ Database (MySQL / SQLite)
 
 ---
 
+## 📸 Application Screenshots
+
+### Structure
+![Structure Screen](docs/screenshots/Structure.png)
+
+### 🏠 Main Dashboard
+![Main Screen](docs/screenshots/Dashboard.png)
+
+### ➕ Add Expense
+![Adding Expense](docs/screenshots/Adding.png)
+
+### 📋 Updating List
+![Updating List](docs/screenshots/Updating.png)
+
+### Delete List
+![Delete Expense](docs/screenshots/Deleting.png)
+
+
+
+
 ## ⚙️ How to Run the Project
 
 ### 1️⃣ Prerequisites
